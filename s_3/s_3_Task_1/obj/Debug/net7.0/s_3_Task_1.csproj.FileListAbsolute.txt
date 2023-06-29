@@ -1,0 +1,15 @@
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.csproj.AssemblyReference.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.AssemblyInfoInputs.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.AssemblyInfo.cs
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.csproj.CoreCompileInputs.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\bin\Debug\net7.0\s_3_Task_1.exe
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\bin\Debug\net7.0\s_3_Task_1.deps.json
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\bin\Debug\net7.0\s_3_Task_1.runtimeconfig.json
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\bin\Debug\net7.0\s_3_Task_1.dll
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\bin\Debug\net7.0\s_3_Task_1.pdb
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.dll
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\refint\s_3_Task_1.dll
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.pdb
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\s_3_Task_1.genruntimeconfig.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Task_1\obj\Debug\net7.0\ref\s_3_Task_1.dll
