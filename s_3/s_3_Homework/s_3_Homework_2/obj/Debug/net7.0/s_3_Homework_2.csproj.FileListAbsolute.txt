@@ -1,0 +1,15 @@
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.csproj.AssemblyReference.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.AssemblyInfoInputs.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.AssemblyInfo.cs
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.csproj.CoreCompileInputs.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\bin\Debug\net7.0\s_3_Homework_2.exe
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\bin\Debug\net7.0\s_3_Homework_2.deps.json
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\bin\Debug\net7.0\s_3_Homework_2.runtimeconfig.json
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\bin\Debug\net7.0\s_3_Homework_2.dll
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\bin\Debug\net7.0\s_3_Homework_2.pdb
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.dll
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\refint\s_3_Homework_2.dll
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.pdb
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\s_3_Homework_2.genruntimeconfig.cache
+E:\Users\Настя\Downloads\Frontend (GB)\C#\seminar\s_3\s_3_Homework\s_3_Homework_2\obj\Debug\net7.0\ref\s_3_Homework_2.dll
