@@ -1,4 +1,4 @@
-﻿// Задача 38: Задайте массив вещественных чисел. 
+// Задача 38: Задайте массив вещественных чисел. 
 // Найдите разницу между максимальным и минимальным элементом массива.
 int Prompt(string message)
 {
@@ -9,8 +9,9 @@ int Prompt(string message)
 }
 double[] FillArray (double[] mas, int size)
 {         
+    Random rand = new Random();
     for (int i = 0; i < size; i++)
-        mas[i] = new Random().Next(-9, 10);
+        mas[i] = rand.Next(-9, 10) + rand.NextDouble();
     var temp = string.Join("  ", mas);
     Console.Write("Исходный массив: " + temp);
     return mas;
